@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anishmohan6115
 - 👀 I’m interested in learning new things and explore new fields.
-- 🌱 I’m currently learning java,Html,CSS.
+- 🌱 I’m currently learning Computer Graphics and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
